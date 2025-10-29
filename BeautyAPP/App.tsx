@@ -80,3 +80,10 @@ const styles = StyleSheet.create({
     marginLeft: 8,
   },
 });
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
